@@ -1,0 +1,5 @@
+tensorflow-cpu
+opencv-python-headless
+gradio
+numpy
+gunicorn
